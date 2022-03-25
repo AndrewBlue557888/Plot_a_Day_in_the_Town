@@ -8,5 +8,5 @@ how to run code:
 5. open the "Index.html" file with your browser (tested with google chrome, if it doesn't work with your default, try using chrome)
 
 possible future improvements: 
-1. labels for each location when marker is on the location
+1. labels for each location when marker is on it
 2. visual transition from location to location, making it easier to track
