@@ -9,4 +9,6 @@ how to run code:
 
 possible future improvements: 
 1. labels for each location, for when the marker is on it
-2. visual transition from location to location, making it easier to track
+2. ability to redo cycle (currently requires the page be refreshed)
+3. option to choose from the set individual locations (after a full cycle has completed, both to show options, and prevent issues)
+4. visual transition from location to location, making it easier to track
